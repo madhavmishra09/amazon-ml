@@ -1,1 +1,2 @@
-print("Lanterns is best!")
+print("beginn")
+print("end")
